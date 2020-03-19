@@ -1,5 +1,5 @@
 # Customized-Wechat-Services-Test
-### **这是一个微信公众号智能客服的实现，技术栈flask+uwsgi**
+### **这是一个微信公众号智能客服的实现，技术栈python+flask+uwsgi**
 
 测试方法：![img](file:///C:/Users/Chengxin/Downloads/qrcode_for_gh_f5ed67ac4326_258.jpg)
 
