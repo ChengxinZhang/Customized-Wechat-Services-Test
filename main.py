@@ -88,6 +88,7 @@ def verification():
          	return response
 
         else:  
+#调用talk函数，将tuling机器人返回的信息返回给用户
         	reply_conent = tuling.talk(content,userId)
         	response = make_response(reply % (fromUser, toUser, str(int(time.time())), reply_conent))
         	response.headers['content-type'] = 'application/xml'
